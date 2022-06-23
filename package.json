@@ -1,0 +1,27 @@
+{
+  "name": "social-media-down",
+  "version": "1.0.1",
+  "description": "This is a library that returns a promise with video information from social media sites. thanks @majhcc for api",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "Allan Pereira",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanpereira99/Social-Media-Down.git"
+  },
+  "keywords": [
+    "youtube",
+    "tiktok",
+    "twitter",
+    "video"
+  ],
+  "bugs": {
+    "url": "https://github.com/allanpereira99/Social-Media-Down/issues"
+  },
+  "homepage": "https://github.com/allanpereira99/Social-Media-Down#readme"
+}
